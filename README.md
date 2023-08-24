@@ -1,6 +1,4 @@
-<img src="https://starblast.dankdmitron.dev/img/dankdmitron.png" width=200 height=200 />
-
-<b>Hi there! I'm @dpleshkov, also known as @dankdmitron.</b>
+**Hi there! I'm @dpleshkov, also known as @dankdmitron.**
 
 I'm a mostly self-taught programmer currently pursuing a Bachelor's degree in Computer Science. You may know me for [ServerList+](https://github.com/dpleshkov/serverlistplus-client), a website offering a detailed list of active lobbies and players in Starblast.io.
 
